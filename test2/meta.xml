@@ -1,0 +1,5 @@
+<meta>
+	<info author="terminator" version="0.0.1" type="misc" name="Sniper NPCs" description="NPCs using Sniper Rifle" />
+	<script src="server.lua" type="server" />
+	<script src="c.lua" type="client" />
+</meta>

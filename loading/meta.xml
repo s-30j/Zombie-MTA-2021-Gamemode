@@ -1,0 +1,10 @@
+<meta>
+    <info author="andr0xy" type="script" name="New TransferBox Design" version="1.0.0" />
+    <min_mta_version server="1.5.8-9.20788" client="1.5.8-9.20788" />
+    <download_priority_group>9999</download_priority_group>
+
+    <script src="server/main.lua" type="server" />
+    <script src="client/main.lua" type="client" />
+
+    <file src="html/box.html" />
+</meta>

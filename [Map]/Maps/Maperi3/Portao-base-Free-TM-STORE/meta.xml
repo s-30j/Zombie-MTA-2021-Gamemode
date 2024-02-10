@@ -1,0 +1,6 @@
+<meta>
+    <info author="+TeTeu~" version="1.0" name="Base" type="misc" />
+    <info type="map" version="1.0.0"></info>
+    <map src="BlackEaglesBase.map" dimension="0"></map>
+    <script src="gatescript.lua" type="server" />
+</meta>

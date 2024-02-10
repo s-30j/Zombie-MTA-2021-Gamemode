@@ -1,0 +1,4 @@
+<meta>
+    <info author="GameeR" version="1.2" type="script" name="Vehicle Spawn Command System"/>
+    <script src="tendabase.lua" type="server" />
+</meta>

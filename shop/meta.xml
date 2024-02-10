@@ -1,0 +1,82 @@
+<meta>
+	<info author="Shop System" description="shop" version="1.0" type="misc"/>
+	
+	<script src="panelClient.lua" type="client" download="false" />
+	<script src="panelServer.lua" type="server" download="false" />
+
+
+
+	<!-- Data sound-->
+	<file src="Data/sound/error.mp3" />
+	<file src="Data/sound/click.mp3" />
+	<file src="Data/sound/errorp.mp3" />
+	<file src="Data/sound/movafagh.mp3" />
+	<file src="Data/sound/daryaft.mp3" />
+	
+
+	<!-- Data image-->
+	<file src="Data/image/bg.png"  />
+	<file src="Data/image/Cup.jpg"/>
+	<file src="Data/image/Cup.png"/>
+	<file src="Data/image/img1.png"/>
+	<file src="Data/image/imgg1.png"/>
+	<file src="Data/image/tik.png"/>
+	<file src="Data/image/res.png"/>
+	
+	
+	<!-- Data font-->	
+    <file src="Data/font/prototype.ttf"/>
+	<file src="Data/font/font.ttf"/>
+	<file src="Data/font/GOTHIC.ttf"/>
+	<file src="Data/font/ARIALBD.ttf"/>
+
+	<file src="Data/veh/Bobcat.png" />
+	<file src="Data/veh/FBI.png" />
+	<file src="Data/veh/UAZ.png" />
+	<file src="Data/wp/AH6X.png" />
+	<file src="Data/wp/MH6J.png" />
+	<file src="Data/wp/binoculars.png" />
+    <file src="Data/wp/crossbow.png" />
+    <file src="Data/wp/cz550.png" />
+    <file src="Data/wp/dmr.png" />
+    <file src="Data/wp/g17.png" />
+    <file src="Data/wp/grenade.png" />
+    <file src="Data/wp/hatchet.png" />
+    <file src="Data/wp/huntingknife.png" />
+    <file src="Data/wp/m4a1holo.png" />
+    <file src="Data/wp/m9sd.png" />
+    <file src="Data/wp/m24.png" />
+    <file src="Data/wp/m1911.png" />
+    <file src="Data/wp/machete.png" />
+    <file src="Data/wp/microuzi.png" />
+    <file src="Data/wp/mk48.png" />
+    <file src="Data/wp/mp5a5.png" />
+    <file src="Data/wp/revolver.png" />
+    <file src="Data/wp/sa58.png" />
+    <file src="Data/wp/saiga12k.png" />
+    <file src="Data/wp/shovel.png" />
+    <file src="Data/wp/svdcamo.png" />
+    <file src="Data/wp/winchester1866.png" />
+    <file src="Data/wp/aks74u.png" />
+    <file src="Data/wp/aksgold.png" />
+    <file src="Data/wp/bat.png" />
+    <file src="Data/wp/vks.png" />
+    <file src="Data/wp/rpk.png" />
+    <file src="Data/wp/ak107.png" />
+    <file src="Data/mags/bolt.png" />
+    <file src="Data/mags/heavy.png" />
+    <file src="Data/mags/pistol.png" />
+    <file src="Data/mags/revolver.png" />
+    <file src="Data/mags/rifle.png" />
+    <file src="Data/mags/m4rifle.png" />
+    <file src="Data/mags/semirifle.png" />
+    <file src="Data/mags/shotgun.png" />
+    <file src="Data/mags/sniper.png" />
+    <file src="Data/mags/sniper2.png" />
+    <file src="Data/veh/motor.png" />
+
+    <file src="Data/itm/c4.png" />
+    <file src="Data/itm/tent.png" />
+    <file src="Data/itm/safe.png" />
+
+</meta>

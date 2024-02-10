@@ -1,0 +1,12 @@
+<meta>
+        <info author="Call of MTA" type="script" name="Misc System" />
+		<script src="misc.lua" type="server" />
+		<export function="getPlayerByName" type="server" />
+        <export function="FormatPN" type="server" />
+        <export function="sendPlayerNotCon" type="server" />
+        <export function="sendError" type="server" />
+		<export function="sendError" type="server" />
+		<export function="getPlayerID" type="server" />
+		<export function="getPlayerByID" type="server" />
+		<export function="findPlayer" type="server" />
+</meta>

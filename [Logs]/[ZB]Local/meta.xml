@@ -1,0 +1,6 @@
+<meta>
+    
+    <script src="script.lua" type="server"  />	
+    <file src="Log.xml" />
+    <export function="CreateServerLog" type="server" />
+</meta>

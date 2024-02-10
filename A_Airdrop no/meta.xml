@@ -1,0 +1,6 @@
+<meta>
+    <script src="Client.lua" type="client" cache="false"/>
+    <script src="Server.lua" type="server"/>
+    <script src="WeaponsTable.lua" type="server"/>
+    <file src="Sounds/Airdrop1.mp3"/>
+</meta>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 90vh;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Roboto', sans-serif;
+            color: #fff;
+        }
+
+        .bar {
+            display: flex;
+            background-color: rgba(20, 21, 22, 0.95);
+            border-radius: 0.2rem;
+            width: 300px;
+            height: 45px;
+            position: relative;
+            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+			align-self: flex-end;
+        }
+
+        .text-progress {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 8px;
+        }
+
+        .bar-progress {
+            position: absolute;
+            width: 0%;
+            height: 4px;
+            background: linear-gradient(to right, #ff8900, #ffa640);
+        }
+    </style>
+</head>
+<body>
+    <div class="bar">
+        <div class="bar-progress"></div>
+        <div class="text-progress">
+            <span>Downloading resources... (66%)</span>
+            <small>66.0 MB of 100.0 MB</small>
+        </div>
+    </div>
+</body>
+</html>

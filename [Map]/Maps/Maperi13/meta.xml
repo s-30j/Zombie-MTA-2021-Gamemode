@@ -1,0 +1,30 @@
+<meta>
+    <oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+    <map src="Maperi-Ali.map" dimension="0"></map>
+    <map src="Maperi4.map" dimension="0"></map>
+    <map src="maperi5.map" dimension="0"></map>
+    <map src="Maperi9.map" dimension="0"></map>
+    <map src="Maperi11.map" dimension="0"></map>
+    <map src="Maperi10.map" dimension="0"></map>
+    <map src="MAPERI-FARZAD.map" dimension="0"></map>
+    <map src="MaperiRick.map" dimension="0"></map>
+    <map src="MAP-MOJTABA.map" dimension="0"></map>
+    <map src="Mpaeri2.map" dimension="0"></map>
+    <map src="w2016.map" dimension="0"></map>
+    <map src="w2017.map" dimension="0"></map>
+    <map src="W2018.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

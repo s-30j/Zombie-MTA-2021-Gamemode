@@ -1,0 +1,27 @@
+<meta>
+	<info author="Falke" version="2.0.0" type="misc" name="SilentHill" description="This script will add Silent Hill to San Andreas" />
+
+	<script src="Server.lua" type="server" />
+	<script src="Client.lua" type="client" />
+
+	<file src="skin/skin1.txd" />
+	<file src="skin/skin1.dff" />
+	<file src="skin/skin2.txd" />
+	<file src="skin/skin2.dff" />
+	<file src="skin/skin3.txd" />
+	<file src="skin/skin3.dff" />
+	<file src="skin/skin4.txd" />
+	<file src="skin/skin4.dff" />
+	<file src="skin/skin5.txd" />
+	<file src="skin/skin5.dff" />
+	<file src="skin/skin6.txd" />
+	<file src="skin/skin6.dff" />
+	<file src="skin/skin7.txd" />
+	<file src="skin/skin7.dff" />
+
+	<file src="siren.mp3" />
+
+    <include resource="extra_health" />
+    <include resource="slothbot" />
+
+</meta>

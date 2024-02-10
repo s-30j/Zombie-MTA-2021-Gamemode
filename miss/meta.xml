@@ -1,0 +1,33 @@
+<meta>
+	<info author="Zombie MTA" description="Mio" version="1.0" type="misc"/>
+	
+	<script src="panelClient.lua" type="client"/>
+	<script src="panelServer.lua" type="server"/>
+
+
+	<file src="Data/bg.png"/>
+
+
+	<!-- Data sound-->
+	<file src="Data/sound/error.mp3"/>
+	<file src="Data/sound/click.mp3"/>
+	<file src="Data/sound/errorp.mp3"/>
+	<file src="Data/sound/movafagh.mp3"/>
+	<file src="Data/sound/daryaft.mp3"/>
+
+	<!-- Data image-->
+	<file src="Data/image/bg.png"/>
+	<file src="Data/image/Cup.jpg"/>
+	<file src="Data/image/Cup.png"/>
+	<file src="Data/image/img1.png"/>
+	<file src="Data/image/imgg1.png"/>
+	<file src="Data/image/tik.png"/>
+	<file src="Data/image/res.png"/>
+	
+	<!-- Data font-->	
+    <file src="Data/font/prototype.ttf"/>
+	<file src="Data/font/font.ttf"/>
+	<file src="Data/font/GOTHIC.ttf"/>
+	<file src="Data/font/ARIALBD.ttf"/>
+
+</meta>

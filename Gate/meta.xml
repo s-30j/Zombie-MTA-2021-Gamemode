@@ -1,0 +1,6 @@
+<meta>
+    <info author="TheNightRider" description="automated doors/gates" version="1.0" type="script" />
+	<script src="script.lua"  />
+	<script src="server.lua"  />
+	<script src="sv.lua"  />
+</meta>

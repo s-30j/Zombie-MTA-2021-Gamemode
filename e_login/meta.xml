@@ -1,0 +1,43 @@
+<meta>
+	<script src="server.lua" type="server" cache="false"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="guestlogin.lua" />
+	<file src="DayZ.png" type="client"/>
+	<file src="font.ttf" type="client"/>
+	<file src="login.mp3" />
+
+
+
+    <file src="Welcome.mp3" />
+	<file src="images/WelcomeForm.png" />
+	<file src="images/Click.png" />
+	<script src="Welcome_C.lua" type="client" cache="false" />
+
+
+	<!--Images-->
+	<file src="images/M.mp3" />
+	<file src="images/c.png" />
+	<file src="images/background.png" />
+	<file src="images/main.png" />
+	<file src="images/editBox.png" />
+	<file src="images/button.png" />
+	<file src="images/succes.png" />
+	<file src="images/Play.png" />
+	<file src="images/Exit.png" />
+
+	<script src="settings_c.lua" type="client" cache="false" />
+
+    <file src="shader/crosshair_shader.fx" />
+
+    <file src="crosshairs/1.png" />
+    <file src="crosshairs/2.png" />
+    <file src="crosshairs/3.png" />
+    <file src="crosshairs/4.png" />
+    <file src="crosshairs/5.png" />
+    <file src="crosshairs/hover.png" />
+
+	<file src="Images/BG1.jpg"/>
+
+	<export function="getPlayerAcc" type="server" />
+    <export function="getPlayerFromAcc" type="server" />
+</meta>	
