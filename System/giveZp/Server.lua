@@ -1,6 +1,6 @@
 local accSys = exports["e_login"]
 
-setTimer (function(wanted)
+setTimer (function(w)
 	for k, v in ipairs(getElementsByType("player")) do
 		if getElementData(v, "loggedIn") == true then
 				local ConnectTime = getElementData(accSys:getPlayerAcc(v), "ZPTime")
